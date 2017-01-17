@@ -5,7 +5,7 @@
     <name>AboutDialog</name>
     <message>
         <source>About Brewtarget</source>
-        <translation>About Brewtarget</translation>
+        <translation>Sobre Brewtarget</translation>
     </message>
 </context>
 <context>
